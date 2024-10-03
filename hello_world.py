@@ -1,1 +1,2 @@
-print ("Hello world!")
+def ola():
+    print ("Hello world!")
